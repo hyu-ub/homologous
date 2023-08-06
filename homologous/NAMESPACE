@@ -1,0 +1,2 @@
+export(homologous_test)
+importFrom("stats", "pt", "var")
